@@ -1,6 +1,6 @@
 # ip-xjtu
 
-西安交通大学的IP地址整理
+西安交通大学的IP地址整理（非官方）
 
 ## 文件说明
 
@@ -12,6 +12,8 @@
 | ip_xjtu.csv         | 西安交通大学所有IP及归属地           |
 | ip_xjtu_related.csv | 西安交通大学相关IP及归属地           |
 
+**注意：csv文件中的归属地数据已过期。请仅用于校内或校外判断，不要用于ip来源判断。**
+
 ## IP归属地来源
 
 <http://www.580san.com>
@@ -20,4 +22,4 @@
 
 [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-ip-xjtu Copyright (C) 2017 Ganlv
+ip-xjtu Copyright (C) 2017-2018 Ganlv
